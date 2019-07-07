@@ -9,7 +9,7 @@ body {
 .menu {
    list-style-type: none;
    font-family: Arial, Helvetica, sans-serif;
-   font-size: 22px;
+   font-size: 24px;
    font-weight: 400;
    font-style: italic;
 }
@@ -21,7 +21,7 @@ body {
 
 .menu a:hover {
     color: #274e7d;
-    font-weight: 700;
+    font-weight: bold;
 }
 
 .feature h2 {
@@ -108,7 +108,7 @@ input, textarea {
 }
 
 footer {
-    height: 200px;
+    height: 100px;
     background-color:rgba(39, 78, 125, 0.46);
     text-align: center;
     font-weight: 900;
